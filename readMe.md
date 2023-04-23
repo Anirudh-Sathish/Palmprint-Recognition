@@ -11,4 +11,5 @@
 
 ### Progress 
 - Till now we have implemented a CNN to perform classification task on the above database
-- CNN when run on the complete image without ROI , gave an accuracy of 64.68% , when run for 3 epochs . Suspected overfitting 
+- CNN when run on the complete image without ROI , gave an accuracy of 64.68% , when run for 3 epochs . Suspected overfitting - 06:00 pm IST - 23/04/23
+- CNN when run on the complete image without ROI , gave an accuracy of 77.33% , when run for 8 epochs using CUDA (MX350). - 09:00 pm IST - 23/04/23
