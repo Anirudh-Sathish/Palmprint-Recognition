@@ -136,8 +136,8 @@ print('Finished Training')
 with torch.no_grad():
     n_correct = 0 
     n_samples = 0 
-    n_class_correct = [0 for i in range(classes)]
-    n_class_samples = [0 for i in range(classes)]
+    n_class_correct = [0 for i in range(len(classes))]
+    n_class_samples = [0 for i in range(len(classes))]
 
     for images,labels in test_loader:
         images = images.to(device)
@@ -158,8 +158,8 @@ with torch.no_grad():
             n_class_samples[label]+=1
     
     accuracy = 100.0* n_correct/n_samples 
-    print('Accuracy  : {} % }'.format(accuracy))
+    print('Accuracy  : {} % '.format(accuracy))
 
     for i in range(len(classes)):
         acc = 100*n_class_correct[i]/n_class_samples[i]
-        print('Accuracy of {}  : {} % }'.format(classes[i],acc))
+        print('Accuracy of {}  : {} %'.format(classes[i],acc))
