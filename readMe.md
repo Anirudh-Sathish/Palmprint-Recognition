@@ -2,8 +2,8 @@
 
 
 ### Contributors 
-- Anirudh Sathish 
-- K Hitesh Gupta 
+- _Anirudh Sathish_ 
+- _K Hitesh Gupta_
 
 ### Database 
 - Birjland university db 
