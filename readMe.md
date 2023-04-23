@@ -1,5 +1,10 @@
 # Palmprint contactless for biometric purpose 
 
+
+### Contributors 
+- Anirudh Sathish 
+- K Hitesh Gupta 
+
 ### Database 
 - Birjland university db 
 - Currently all tasks are being run on this 
