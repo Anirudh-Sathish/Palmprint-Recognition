@@ -15,3 +15,4 @@
 - CNN when run on the complete image without ROI , gave an accuracy of 77.33% , when run for 8 epochs using CUDA (MX350). - 09:00 pm IST - 23/04/23
 - Applied Transfer Learning i.e , used Resnet18 by modifying only the final layer , when run on the complete image without ROI , gave an accuracy of 76.39% , when run for 3 epochs using CPU - 05:45 pm IST - 25/04/23
 - Applied Transfer Learning i.e , used Resnet18 by modifying only the final layer , when run on the complete image without ROI , gave an accuracy of 81.67% , when run for 8 epochs using CUDA (MX350) - 10:15 pm IST - 25/04/23
+- Applied Transfer Learning i.e , used Resnet18 by modifying only the final layer , when run on the complete image without ROI , gave an accuracy of 97.2% , when run for 20 epochs using CUDA (MX350) - 06:45 am IST - 26/04/23
