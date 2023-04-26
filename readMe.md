@@ -6,7 +6,7 @@
 - _K Hitesh Gupta_
 
 ### Database 
-- Birjland university db
+- Birjand University Mobile Palmprint Database (BMPD)
 ###### Description 
 ```
 1.Birjand University Mobile Palmprint Database (BMPD), contains 1640 images from both the left and right hands of 41 Iranian females in two sessions with the interval of two weeks.
