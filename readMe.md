@@ -9,8 +9,11 @@
 - Birjland university db
 ###### Description 
 ```
-Birjand University Mobile Palmprint Database (BMPD), contains 1640 images from both the left and right hands of 41 Iranian females in two sessions with the interval of two weeks. In the first session, the users were requested to put their hand on a black background and six images of each palm were taken from the distance of 20 cm of the user hand in a free environment. Although the hand orientation was not controlled during the image capturing, there are not much hand pose variations in images. In the second session, 16 images were taken per each user’s palm like the first session but the user’s hands
-have more rotation in comparison to the first session. It should be noted that the users were asked to close and open
+1.Birjand University Mobile Palmprint Database (BMPD), contains 1640 images from both the left and right hands of 41 Iranian females in two sessions with the interval of two weeks.
+2.In the first session, the users were requested to put their hand on a black background and six images of each palm were taken from the distance of 20 cm of the user hand in a free environment.
+3.Although the hand orientation was not controlled during the image capturing, there are not much hand pose variations in images.
+4.In the second session, 16 images were taken per each user’s palm like the first session but the user’s hands have more rotation in comparison to the first session.
+5. It should be noted that the users were asked to close and open
 their hands after each image capturing to increase the intraclass variability among palmprint images.
 ```
 - Currently all tasks are being run on this 
