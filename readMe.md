@@ -40,6 +40,7 @@ their hands after each image capturing to increase the intraclass variability am
 - Applied Transfer Learning i.e , used Resnet18 by modifying only the final layer(TL1) , when run on the complete image without ROI , gave an accuracy of 81.67% , when run for 8 epochs using CUDA (MX350) - 10:15 pm IST - 25/04/23
 - Applied Transfer Learning i.e , used Resnet18 by modifying only the final layer(TL1) , when run on the complete image without ROI , gave an accuracy of 97.2% , when run for 20 epochs using CUDA (MX350) - 06:45 am IST - 26/04/23
 - CNN when run on the complete image with ROI , gave an accuracy of 89.83% , when run for 6 epochs using CUDA (MX350). - 09:00 am IST - 26/04/23
+- Applied the DINOv2 model on the complete image with ROI, gave a test accuracy of 98% and validation accuracy of 98% - 10:00 pm IST - 05/05/23
 
 
 ### Citations 
